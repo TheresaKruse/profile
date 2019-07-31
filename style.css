@@ -80,3 +80,7 @@ i {
   margin: 4px;
   border-radius: 25px;
 }
+
+img {
+  max-width: 100%;
+}
